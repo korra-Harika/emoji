@@ -1,5 +1,5 @@
 # emoji
-This is my first git repository.
+This is my first Git Repository.
 <br>
-Author-korra Harika
+Author-Korra Harika
 
